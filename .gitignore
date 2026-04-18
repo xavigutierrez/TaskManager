@@ -210,3 +210,4 @@ __marimo__/
 
 # Additional files to exclude (e.g. application saved files for testing)
 tasks.json
+.env
