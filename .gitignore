@@ -206,3 +206,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Additional files to exclude (e.g. application saved files for testing)
+tasks.json
